@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XtremeCookiez&#39;s Blog</title>
+    <link>http://xtremecookiez.github.io/</link>
+    <description>Recent content on XtremeCookiez&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023 </copyright>
+    <lastBuildDate>Fri, 29 Dec 2023 01:33:34 +0000</lastBuildDate><atom:link href="http://xtremecookiez.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backup Server</title>
+      <link>http://xtremecookiez.github.io/computer-stuff/backup-server/</link>
+      <pubDate>Fri, 29 Dec 2023 01:33:34 +0000</pubDate>
+      
+      <guid>http://xtremecookiez.github.io/computer-stuff/backup-server/</guid>
+      <description>I wanted to create an offsite server to host some backups and potentially run some services.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
